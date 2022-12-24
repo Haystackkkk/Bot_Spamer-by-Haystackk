@@ -1,0 +1,1 @@
+TextSpam: (Write on line 2. You must don't use the first line because, in script, it just use the second line)
